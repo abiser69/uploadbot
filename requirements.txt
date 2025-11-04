@@ -1,4 +1,4 @@
-telethon
-yt-dlp
+python-telegram-bot
+pillow
 requests
-tqdm
+
